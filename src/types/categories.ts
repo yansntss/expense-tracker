@@ -2,7 +2,7 @@
 export type Category = {
     [tag: string] : {
         title: string;
-        color: String;
+        color: string;
         expense: boolean;
     }
 }
